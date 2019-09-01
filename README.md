@@ -24,10 +24,13 @@ The YouTube Data Api may have more than 10,000 quotas. YouTube officially limits
 If you think this app is a little bit useful for you, you can help me make a good rating. Then send your rating screenshot, email address and your username to cyhlife@gmail.com, I will give your account a 1000 points to thank you, of course, this is entirely voluntary.
 
 # 5.Is the paid purchase point affected by YouTube Api?
-Yes, like all users, it will be limited by Youtube Api. Purchase points is just a way to get points, and there are no special permissions at the moment.
+Yes, like all users, it will be limited by Youtube Api. Purchase points is just a way to get points, and there are no special permissions at the moment.So before you buy, you have to think about whether you want to continue to buy.
 
 # 6.Unpopular list
 Please review the privacy policy and FAQ before using.  If you don't view it, blame the application for not using or not satisfying your idea and giving the lowest score.  You may be blacklisted.  If the system detects that the existing points will be cleared, thanks to the support and understanding of most users.
 
-# 7.Other
+# 7.Can I publish channel information continuously?
+Will automatically delete more than two consecutive channel information.
+
+# 8.Other
 If you have further questions, you can send an email to cyhlife@gmail.com. Thank you
