@@ -1,4 +1,6 @@
-# Ytcsub-Boost-FAQ
+# YtcSub-Boost-FAQ
+
+# YtcSub Boost temporarily renamed to U2Boost.
 
 # 1.Not enough points, How to earn points?
 Click the "Subscribe" button on the channel page to add 20 points per subscription.
