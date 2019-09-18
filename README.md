@@ -1,4 +1,4 @@
-# U2Boost-FAQ
+# Ytcsub-Boost-FAQ
 
 # 1.Not enough points, How to earn points?
 Click the "Subscribe" button on the channel page to add 20 points per subscription.
