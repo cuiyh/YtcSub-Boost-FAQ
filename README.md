@@ -5,9 +5,10 @@
 # 1.Please Note：Why the app is not working?
 This app is done by calling the official YouTube API to publish and subscribe to the channel.After 10,000 API quotas are used up that day, the app will not be able to subscribe to and publish any channel information. Because this is the official limitation of YouTube, only 10,000 apis are allowed to be called each day.The next day will reset 10,000 api quotas. You can earn points by watching a video ad, then reset the api the next day and continue to use it.And there are a lot of people using this app, they will run out of 10,000 Api quotas in about 3-4 hours.If you can't accept it, you can uninstall it.The fourth question is the same as this question.
 
-# 2.Two ways to publish and subscribe are coming soon.
+# 2.There are two ways to publish and subscribe now in the new version.
+## Do not unsubscribe, otherwise the points will be cleared
 1. Using the API, the api quota will automatically start the second mode when it is used up.
-2. Do not use the API, but it may not be stable.
+2. Do not use the API, not restricted by API, but it may not be stable.
 
 # 3.Not enough points, How to earn points?
 Click the "Subscribe" button on the channel page to add 20 points per subscription.
