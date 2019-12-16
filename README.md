@@ -20,8 +20,5 @@ You can also purchase points directly.
 # 3.Can I publish channel information continuously?
 Will automatically delete more than two consecutive channel information.
 
-# 4.Unpopular list
-Please review the privacy policy and FAQ before using. If you don't view it, blame the application for not using or not satisfying your idea and giving the lowest score. You may be blacklisted. If the system detects that the existing points will be cleared, thanks to the support and understanding of most users.
-
-# 5.Other
+# 4.Other
 If you have further questions, you can send an email to cyhlife@gmail.com. I will reply to you when I have time. Thank you!
