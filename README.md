@@ -5,6 +5,14 @@
 ## Do not unsubscribe, otherwise the points will be cleared
 
 # 1.How to post YouTube channel URL information?
+## Note: The URL has been changed to https://m.youtube.com/channel/UCgl9cKwcOAN1OZNscWovNcg (Mobile)
+## (1) Open YouTube in Android Chrome browser
+![image](https://github.com/cuiyh/YtcSub-Boost-FAQ/blob/master/(1).jpg)
+![image](https://github.com/cuiyh/YtcSub-Boost-FAQ/blob/master/(2).jpg)
+![image](https://github.com/cuiyh/YtcSub-Boost-FAQ/blob/master/(3).jpg)
+![image](https://github.com/cuiyh/YtcSub-Boost-FAQ/blob/master/(4).jpg)
+
+## (2) Open in Android YouTube client
 ![image](https://github.com/cuiyh/YtcSub-Boost-FAQ/blob/master/01.jpg)
 ![image](https://github.com/cuiyh/YtcSub-Boost-FAQ/blob/master/02.jpg)
 ![image](https://github.com/cuiyh/YtcSub-Boost-FAQ/blob/master/03.jpg)
