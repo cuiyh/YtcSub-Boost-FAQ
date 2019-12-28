@@ -19,6 +19,7 @@
 ![image](https://github.com/cuiyh/YtcSub-Boost-FAQ/blob/master/03.jpg)
 ![image](https://github.com/cuiyh/YtcSub-Boost-FAQ/blob/master/04.jpg)
 ![image](https://github.com/cuiyh/YtcSub-Boost-FAQ/blob/master/05.jpg)
+## Note: The URL has been changed to https://m.youtube.com/channel/UCgl9cKwcOAN1OZNscWovNcg (Mobile)
 ![image](https://github.com/cuiyh/YtcSub-Boost-FAQ/blob/master/06.jpg)
 
 # 2.Not enough points, How to earn points?
