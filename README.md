@@ -12,6 +12,7 @@
 ![image](https://github.com/cuiyh/YtcSub-Boost-FAQ/blob/master/(3).jpg)
 ![image](https://github.com/cuiyh/YtcSub-Boost-FAQ/blob/master/(4).jpg)
 
+## Note: The URL has been changed to https://m.youtube.com/channel/UCgl9cKwcOAN1OZNscWovNcg (Mobile)
 ## (2) Open in Android YouTube client
 ![image](https://github.com/cuiyh/YtcSub-Boost-FAQ/blob/master/01.jpg)
 ![image](https://github.com/cuiyh/YtcSub-Boost-FAQ/blob/master/02.jpg)
