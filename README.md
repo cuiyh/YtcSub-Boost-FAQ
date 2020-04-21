@@ -34,7 +34,7 @@ You can also watch video ads to earn 50 points.(Available in subsequent releases
 You can also purchase points directly.
 
 # 3.Can I publish channel information continuously?
-Will automatically delete more than two consecutive channel information.
+Will automatically delete more than two consecutive channel information. For users who repeatedly violate the rules, the account will be closed.
 
 # 4.Other
 If you have further questions, you can send an email to cyhlife@gmail.com. I will reply to you when I have time. Thank you!
